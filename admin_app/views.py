@@ -10,7 +10,7 @@ def index(request):
 
 def addParentCate(request):
 
-    pass
+    print('hello')
     return render(request, 'admin_app/main/zjsp.html')
 
 
